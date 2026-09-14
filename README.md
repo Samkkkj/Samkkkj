@@ -22,11 +22,6 @@
 ![Perplexity AI](https://img.shields.io/badge/Perplexity-0D1117?style=for-the-badge&logo=perplexity&logoColor=white&labelColor=0D1117)&nbsp;
 ![Cursor](https://img.shields.io/badge/Cursor-0D1117?style=for-the-badge&logo=cursor&logoColor=white&labelColor=0D1117)&nbsp;
  
-### Other Knowledge:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
